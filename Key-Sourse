@@ -2,7 +2,6 @@
     'use strict';
     Lampa.Platform.tv();
 
--000000000000
 
 
 
@@ -99,4 +98,5 @@ if (window.appready) {reload(); button();}
 
 
 })();
+
 
