@@ -3,7 +3,7 @@
     Lampa.Platform.tv();
 
 
-
+888888888
 
 
 Lampa.Settings.listener.follow('open', function(e) {
@@ -99,3 +99,4 @@ if (window.appready) {reload(); button();}
 
 
 })();
+
